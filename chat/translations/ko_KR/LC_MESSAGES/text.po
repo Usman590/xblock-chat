@@ -84,3 +84,21 @@ msgid ""
 "'step': id}. The possible values for 'from' are default_data.USER_ID, "
 "default_data.DEFAULT_BOT_ID, or a custom bot ID."
 msgstr "봇과 사용자 사이에 주고 받은 메시지를 나타내는 사전의 목록입니다. 각 사전은 {'from': ..., 'message': '...', 'step': id} 형식으로 되어 있습니다. ‘from’에 들어갈 수 있는 값은 default_data.USER_ID, default_data.DEFAULT_BOT_ID 또는 맞춤형 봇 ID입니다."
+msgid "Title to display"
+msgstr "표시할 제목"
+
+#: chat.py:56
+msgid "Chat XBlock"
+msgstr "채팅 XBlock"
+
+#: chat.py:61
+msgid "Chat subject"
+msgstr "채팅 주제"
+
+#: chat.py:62
+msgid "Subject being discussed in the chat"
+msgstr "채팅에서 토론 중인 주제"
+
+#: chat.py:68
+msgid "Steps"
+msgstr "단계"
