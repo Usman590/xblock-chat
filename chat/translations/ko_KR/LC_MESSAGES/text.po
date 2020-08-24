@@ -171,3 +171,6 @@ msgstr ""
 #: chat.py:68
 msgid "Steps"
 msgstr ""
+
+msgid "Chat XBlock"
+msgstr ""
