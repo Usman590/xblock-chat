@@ -102,3 +102,19 @@ msgstr "채팅에서 토론 중인 주제"
 #: chat.py:68
 msgid "Steps"
 msgstr "단계"
+
+#: chat.py:56
+msgid "Chat XBlock"
+msgstr "채팅 XBlock"
+
+#: chat.py:61
+msgid "Chat subject"
+msgstr ""
+
+#: chat.py:62
+msgid "Subject being discussed in the chat"
+msgstr ""
+
+#: chat.py:68
+msgid "Steps"
+msgstr ""
