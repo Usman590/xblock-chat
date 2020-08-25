@@ -27,4 +27,10 @@ msgid "Restart"
 msgstr "إعادة التشغيل"
 
 msgid "Restart"
-msgstr "إعادة التشغيل"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
